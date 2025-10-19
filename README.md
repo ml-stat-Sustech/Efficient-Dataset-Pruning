@@ -1,14 +1,14 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <br>
   DLC
   <br>
-</h1>
+</h1> -->
 
-<h4 align="center">
+<h3 align="center">
   An official PyTorch implementation of the ICLR 2025 paper
   <br>
   "Exploring Learning Complexity for Efficient Downstream Dataset Pruning"
-</h4>
+</h3>
 
 <div align="center">
   <a href="https://arxiv.org/abs/2402.05356" target='_blank'>
