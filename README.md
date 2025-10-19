@@ -5,9 +5,8 @@
 </h1> -->
 
 <h3 align="center">
-  An official PyTorch implementation of the ICLR 2025 paper
   <br>
-  "Exploring Learning Complexity for Efficient Downstream Dataset Pruning"
+  [ICLR'25] Exploring Learning Complexity for Efficient Downstream Dataset Pruning
 </h3>
 
 <div align="center">
